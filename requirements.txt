@@ -1,9 +1,4 @@
-Flask==2.3.3
-firebase-admin==6.2.0
-imgbeddings==0.1.2
-Pillow==10.0.1
-numpy==1.24.3
-opencv-python-headless==4.8.1.78
-Werkzeug==2.3.7
-gunicorn==21.2.0
-requests==2.31.0
+Flask
+firebase-admin
+imgbeddings
+Pillow
